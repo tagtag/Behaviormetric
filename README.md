@@ -7,4 +7,4 @@ https://github.com/ageron/handson-ml2/blob/master/01_the_machine_learning_landsc
 https://github.com/ageron/handson-ml2/blob/master/08_dimensionality_reduction.ipynb
 
 線形回帰
-
+https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb
