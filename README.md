@@ -11,3 +11,6 @@ https://colab.research.google.com/github/ageron/handson-ml2/blob/master/04_train
 
 線形判別
 https://colab.research.google.com/github/tagtag/Behaviormetric/blob/main/LDA.ipynb
+
+決定木
+https://colab.research.google.com/github/ageron/handson-ml2/blob/master/06_decision_trees.ipynb
