@@ -17,3 +17,6 @@ https://colab.research.google.com/github/ageron/handson-ml2/blob/master/06_decis
 
 ニューラルネットワーク
 https://colab.research.google.com/github/tagtag/Behaviormetric/blob/main/3_1_classification.ipynb
+
+深層学習
+https://colab.research.google.com/github/tagtag/Behaviormetric/blob/main/3_3_convolution_tpu.ipynb
