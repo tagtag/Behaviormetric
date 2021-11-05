@@ -3,5 +3,8 @@
 K近傍法
 https://github.com/ageron/handson-ml2/blob/master/01_the_machine_learning_landscape.ipynb
 
-主成分分析
+主成分分析・多次元尺度構成法
 https://github.com/ageron/handson-ml2/blob/master/08_dimensionality_reduction.ipynb
+
+線形回帰
+
