@@ -10,5 +10,4 @@ https://github.com/ageron/handson-ml2/blob/master/08_dimensionality_reduction.ip
 https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb
 
 線形判別
-https://colab.research.google.com/github.com/tagtag/Behaviormetric/blob/main/LDA.ipynb
-
+https://colab.research.google.com/github/tagtag/Behaviormetric/blob/main/LDA.ipynb
