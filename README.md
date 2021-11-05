@@ -2,6 +2,8 @@
 
 K近傍法
 https://colab.research.google.com/github/ageron/handson-ml2/blob/master/01_the_machine_learning_landscape.ipynb
+各国GDP
+https://docs.google.com/spreadsheets/d/1FHu3phWsSOn95tJRneerFjVdlFqs21K6GmFfo174ZoU/edit?usp=sharing
 
 主成分分析・多次元尺度構成法
 https://colab.research.google.com/github/ageron/handson-ml2/blob/master/08_dimensionality_reduction.ipynb
