@@ -8,3 +8,6 @@ https://github.com/ageron/handson-ml2/blob/master/08_dimensionality_reduction.ip
 
 線形回帰
 https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb
+
+
+https://colab.research.google.com/github/utokyo-ipp/utokyo-ipp.github.io/blob/master/colab/1/1-0.ipynb
