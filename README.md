@@ -32,4 +32,4 @@ https://colab.research.google.com/github/stockmarkteam/bert-book/blob/master/Cha
 https://colab.research.google.com/github/stockmarkteam/bert-book/blob/master/Chapter5.ipynb
 
 GAN
-https://colab.research.google.com/github/tagtag/Behaviormetric/blob/main/section3_2_DCGAN.ipynb
+https://colab.research.google.com/github/ayukat1016/gan_sample/tree/main/chapter3/section3_2_DCGAN.ipynb
