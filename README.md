@@ -33,4 +33,4 @@ https://colab.research.google.com/github/stockmarkteam/bert-book/blob/master/Cha
 
 AlphaGO
 https://colab.research.google.com/github/tagtag/Behaviormetric/blob/main/6_1_game.ipynb
-https://colab.research.google.com/github/tagtag/Behaviormetric/blob/main/6__game.ipynb
+https://colab.research.google.com/github/tagtag/Behaviormetric/blob/main/6_2_game.ipynb
