@@ -30,3 +30,6 @@ https://colab.research.google.com/github/tagtag/Behaviormetric/blob/main/3_3_con
 BERT
 https://colab.research.google.com/github/stockmarkteam/bert-book/blob/master/Chapter4.ipynb
 https://colab.research.google.com/github/stockmarkteam/bert-book/blob/master/Chapter5.ipynb
+
+GAN
+https://colab.research.google.com/github/tagtag/Behaviormetric/blob/main/section3_2-DCGAN.ipynb
