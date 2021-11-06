@@ -26,3 +26,6 @@ https://colab.research.google.com/github/tagtag/Behaviormetric/blob/main/3_1_cla
 
 深層学習
 https://colab.research.google.com/github/tagtag/Behaviormetric/blob/main/3_3_convolution.ipynb
+
+BERT
+https://colab.research.google.com/github/stockmarkteam/bert-book/blob/master/Chapter4.ipynb
