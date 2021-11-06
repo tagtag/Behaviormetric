@@ -1,0 +1,13 @@
+セミナーで行った「深層学習で学習した三目並べとの対戦」はgoogle colaboratoryではできませんが、自分のパソコンにpython3.0を準備できる人なら簡単に試すことができます。
+まず、ここにある9つのファイル名の拡張子が.pyであるファイルを自分のパソコンの同じところ（例えばデスクトップ）にダウンロードしてください。つぎにmodelというデレクトリを作って
+そこにbest.h5というファイルを置かないといけないのですが、このファイルが５５MBという巨大なファイルなので、githubに置くことができません。なので書籍のサポートサイト
+https://book.borndigital.jp/support/AlphaZero/sample.zip
+からsample.zipをダウンロードして解党した後、best.h5というファイルを作ってmodelというディレクトリの中に入れてください。
+次に以下のコマンドで３つのパッケージをインストールしてください。
+pip install tensorflow
+pip install pillow
+pip install h5py
+あとは普通に
+python human_play.py
+とやれば三目並べが動くはずです。
+お試しあれ。
