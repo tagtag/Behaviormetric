@@ -35,4 +35,8 @@ GAN
 https://colab.research.google.com/github/ayukat1016/gan_sample/blob/main/chapter3/section3_2-DCGAN.ipynb
 
 CycleGAN
+
+画像データ
+https://zenodo.org/record/158963/files/fadg0.zip
+https://zenodo.org/record/158963/files/faks0.zip
 https://colab.research.google.com/github/ayukat1016/gan_sample/blob/main/chapter6/section6_2_cycleGAN_pytorch_face.ipynb
