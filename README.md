@@ -30,9 +30,3 @@ https://colab.research.google.com/github/tagtag/Behaviormetric/blob/main/3_3_con
 BERT
 https://colab.research.google.com/github/stockmarkteam/bert-book/blob/master/Chapter4.ipynb
 https://colab.research.google.com/github/stockmarkteam/bert-book/blob/master/Chapter5.ipynb
-
-AlphaGO
-https://colab.research.google.com/github/tagtag/Behaviormetric/blob/main/6_1_game.ipynb
-https://colab.research.google.com/github/tagtag/Behaviormetric/blob/main/6_2_dual_network.ipynb
-https://colab.research.google.com/github/tagtag/Behaviormetric/blob/main/6_3_pv_mcts.ipynb
-https://colab.research.google.com/github/tagtag/Behaviormetric/blob/main/6_8_train_cycle.ipynb
