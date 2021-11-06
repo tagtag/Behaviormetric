@@ -33,3 +33,6 @@ https://colab.research.google.com/github/stockmarkteam/bert-book/blob/master/Cha
 
 GAN
 https://colab.research.google.com/github/ayukat1016/gan_sample/blob/main/chapter3/section3_2-DCGAN.ipynb
+
+CycleGAN
+https://colab.research.google.com/github/ayukat1016/gan_sample/blob/main/chapter6/section6_2_cycleGAN_pytorch_face.ipynb
