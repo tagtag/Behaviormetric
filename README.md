@@ -31,6 +31,10 @@ BERT
 https://colab.research.google.com/github/stockmarkteam/bert-book/blob/master/Chapter4.ipynb
 https://colab.research.google.com/github/stockmarkteam/bert-book/blob/master/Chapter5.ipynb
 
+ALphaGO
+これはgoogle colaboratoryでは実行できません。詳しくはAlphaGOのディレクトリを見てください。
+また学習もとても長い時間がかかるので実習で紹介するのを諦めました。
+
 GAN
 https://colab.research.google.com/github/ayukat1016/gan_sample/blob/main/chapter3/section3_2-DCGAN.ipynb
 
