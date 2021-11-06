@@ -41,7 +41,7 @@ https://colab.research.google.com/github/ayukat1016/gan_sample/blob/main/chapter
 CycleGAN
 https://colab.research.google.com/github/ayukat1016/gan_sample/blob/main/chapter5/section5_2_cycleGAN.ipynb
 
-これらのコードの多くは以下の書籍のサポートべーじのものを流用しています。著者のみなさんに感謝します。
+これらのコードの多くは以下の書籍のサポートページのものを流用しています。著者のみなさんに感謝します。
 
 「scikit-learn、Keras、TensorFlowによる実践機械学習 第2版」、Aurélien Géron著、下田 倫大　監訳、長尾 高弘訳、2020年11月 発行、オライリー・ジャパン、832ページ、4,800円＋税
 
