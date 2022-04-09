@@ -1,4 +1,6 @@
-こちらは2021秋の行動計量セミナーの実習用ホームページです
+こちらは2021秋の行動計量セミナー
+http://michioyamamoto.com/event/index.php/bsj/autumn2021
+の実習用ホームページです
 
 K近傍法
 https://colab.research.google.com/github/ageron/handson-ml2/blob/master/01_the_machine_learning_landscape.ipynb
